@@ -4,7 +4,6 @@
 
 **Computer science fresh graduate passionate about Backend, and Software development. More than one year of Python coding experience with object-oriented programming and data structures.**
 
-<h2 align="left">Connect Me With</h2>
 <!------>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
@@ -15,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
-- 📫 How to reach me out: [My facebook account]()
+- 📫 How to reach me out: [My Linkedin account]()
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> My Skills
 
@@ -37,7 +36,6 @@
 
 </div>
 
-<br />
 <br />
 
 <p>
