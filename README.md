@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
-- 📫 How to reach me out: [My Linkedin account]()
+- 📫 How to reach me out: [My Linkedin account](https://www.linkedin.com/in/youssef-alaa-0aa3a8242/)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> My Skills
 
