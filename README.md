@@ -41,7 +41,7 @@
 <br />
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Youssef-Alaa-Youssef&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Youssef-Alaa-Youssef&show_icons=true&theme=dark" />
 </p>
 
 <br />
