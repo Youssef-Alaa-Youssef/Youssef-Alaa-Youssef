@@ -4,7 +4,7 @@
 </p> 
 <!------>
 
-**Computer science fresh graduate passionate about Backend, and Software development. More than one year of Python coding experience with object-oriented programming and data structures.**
+**Motivated junior software engineer with a strong foundation in computer science principles, committed to learning and growth and eager to collaborate with a dynamic development team to build innovative software solutions.**
 
 <!------>
 
